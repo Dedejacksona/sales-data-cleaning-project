@@ -29,3 +29,11 @@ Microsoft Excel — Tables, Find & Replace, TRIM/CLEAN functions, Sort, Number F
 
 ## Result
 A clean, consistent, analysis-ready sales dataset with standardized formatting, no blank critical fields, and improved data integrity.
+
+## Before & After
+
+**Raw Data (Before Cleaning)**
+![Raw Data](screenshots/raw_data_sample.png)
+
+**Cleaned Data (After Cleaning)**
+![Cleaned Data](screenshots/cleaned_data_sample.png)
