@@ -15,7 +15,9 @@ data/
 Microsoft Excel — Tables, Find & Replace, TRIM/CLEAN functions, Sort, Number Formatting, Cell Alignment, Currency Formatting
 
 ## Related Projects
+- [Sales Data EDA](https://github.com/dedejacksona/sales-data-eda-decodelabs) — Exploratory data analysis built on this cleaned dataset
 - [SQL Sales Analysis](https://github.com/dedejacksona/sql-sales-analysis-decodelabs) — SQL queries on the same underlying dataset
+- [Sales Data Visualization](https://github.com/dedejacksona/sales-data-visualization-decodelabs) — Charts and visual reporting on this dataset
 
 ## Cleaning Steps Performed
 
