@@ -1,5 +1,5 @@
 # sales-data-cleaning-project
-Cleaned a dirty sales dataset using Excel during my DecodeLabs internship — includes raw and cleaned data with full documentation of the cleaning process.
+Cleaned a dirty sales dataset using Excel: Includes raw and cleaned data with full documentation of the cleaning process — Data Analytics internship project at DecodeLabs
 
 ## Project Overview
 This project involved cleaning a dirty sales dataset as part of my internship at DecodeLabs. The raw data contained inconsistencies, blank fields, and formatting issues that needed to be resolved to ensure data integrity and usability for analysis.
